@@ -1,0 +1,41 @@
+.padding{
+    padding-top: 8rem;
+    padding-bottom: 3rem;
+    font-weight: 100;
+    line-height: 1.7rem;
+    font-size: 1.3rem;
+  }
+  .font-2{
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  .f1p5{
+    font-size: 1.6rem;
+    color: #af86e0;
+  }
+  .ml-2{
+    margin-left: 2rem;
+  }
+  @media all and (max-width: 950px) {
+    .padding{
+      padding-top: 6rem;
+      padding-bottom: 1rem;
+      font-weight: 100;
+      line-height: 1.3rem;
+      font-size: 1.1rem;
+    }
+    .line-width{
+      width: 71%;
+    }
+    .font-2{
+      font-size: 1.2rem;
+    }
+    .mb-1{
+      margin-bottom: 0.5rem !important;
+    }
+    .f1p5{
+      font-size: 1.3rem;
+      white-space: nowrap;
+    }
+  }
+  

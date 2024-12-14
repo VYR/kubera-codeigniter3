@@ -1,0 +1,96 @@
+.font{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    font-weight: 500;
+  }
+  .main-content{
+    padding-top: 12rem;
+    padding-bottom: 5rem;
+    font-weight: 100;
+  }
+  .color{
+    font-size: 1.6rem !important;
+    padding-bottom: 1.5rem;
+    font-weight: 500;
+  }
+  .font span:nth-child(1){
+    color:#ebbf1f;
+  }
+  .font span:nth-child(2){
+    color:#C596FF;
+  }
+  p{
+    font-size: 1.7rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    text-align: center;
+    line-height: 2.5rem;
+  }
+  .bg-img-1{
+    background-image: url('/assets/images/certificate-ellipse.png');
+    background-size: 100%;
+    width: 100%;
+  }
+  .bg-img-1 > div {
+    margin-top: -6rem;
+  }
+  .img-1{
+    width: 100%;
+    padding-bottom: 2rem;
+  }
+  .bg-img-1 > div > div:nth-child(1),div:nth-child(2),div:nth-child(3){
+    align-items: center !important;
+  }
+  .bg-img-1 > div > div > div:nth-child(1){
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+    font-weight: 500;
+  }
+  .bg-img-1 > div > div > div:nth-child(2),div:nth-child(3){
+    font-size: 1.8rem;
+    align-items: start;
+  }
+  .p-14{
+    padding-top: 14rem;
+  }
+  @media all and (max-width: 950px) {
+    .main-content{
+      padding-top: 8rem;
+    }
+    .mt-30{
+      margin-top: 2rem;
+    }
+    .font{
+      font-size: 2rem;
+      line-height: 2.5rem;
+      text-align: center;
+    }
+    p{
+      font-size: 1.2rem;
+      margin-left: 1rem;
+      margin-right: 1rem;
+      text-align: center;
+      line-height: 1.8rem;
+    }
+    .bg-img-1{
+      background-image: none;
+    }
+    .p-14{
+      padding-top: 0rem;
+    }
+    .mt-2{
+      margin-top: 0rem;
+    }
+    .bg-img-1 > div {
+      margin-top: 3rem;
+    }
+    .bg-img-1 > div > div > div:nth-child(1){
+      font-size: 1.6rem;
+      padding-bottom: 1rem;
+      font-weight: 500;
+    }
+    .bg-img-1 > div > div > div:nth-child(2),div:nth-child(3){
+      font-size: 1.2rem;
+    }
+  }
+  

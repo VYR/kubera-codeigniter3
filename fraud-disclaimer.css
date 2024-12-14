@@ -1,0 +1,85 @@
+.px-5
+{
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-top: 8rem;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+  font-weight: 100;
+  line-height: 1.7rem;
+  /* color: #ddd9e2; */
+  color:#ffffff;
+}
+.line{
+  width: 18%;
+}
+.font-1p5
+{
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #fff;
+}
+.heading
+{
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #fff;
+}
+.font-bold{
+  font-weight: 400;
+  color: #fff;
+}
+.list-gap ul li{
+  margin-bottom: 0.8rem;
+}
+.ml-1{
+  margin-left: 0.75rem;
+}
+.ml-2p5{
+  margin-left: 2.5rem;
+}
+.img-1{
+  width: 50%;
+}
+.mb-n1{
+  margin-bottom: -1rem !important;
+}
+.ml-2{
+  margin-left: 2rem;
+}
+@media all and (max-width: 950px) {
+  .px-5
+  {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 8rem;
+    margin-bottom: 0rem;
+    font-size: 1rem;
+    /* font-weight: 100; */
+    line-height: 1.6rem;
+    /* color: #ddd9e2; */
+  }
+  .font-1p5
+  {
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+  .ml-2p5{
+    margin-left: 1.5rem;
+  }
+  .px-5 div{
+    margin-bottom: 1rem;
+  }
+  .mt-2{
+    margin-top: 0.5rem;
+  }
+  .mb-2{
+    margin-bottom: 0.7rem;
+  }
+  .mt-1{
+    margin-top: 0.3rem;
+  }
+  .line{
+    width: 50%;
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "data":{
+    "pages":{
+      "home":{
+        "section1":{
+          "title1":"Invest in Kubera, Become a Kubera",
+          "title2": "Transform Your Investments into Lasting Value",
+          "slides":[
+            {
+                "title": "Web MH" ,
+                "image":"/assets/images/kubera-gif.gif"
+            },
+            {
+                "title": "Interview Experience ",
+                "image":"/assets/images/kubera-3.png"
+            },
+            {
+                "title": "GeeksforGeeks Logo ",
+                "image": "/assets/images/portfolio-banner-1.png"
+            }
+          ]
+        },
+        "section2":{
+          "title":"In our journey we have delivered",
+          "counters":[
+            {
+              "name":"Total Investment",
+              "count":100,
+              "denomination":"Crores"
+            },
+            {
+              "name":"Repayments Made",
+              "count":70,
+              "denomination":"Crores"
+            }
+          ],
+          "counters2":[
+            {
+              "name1":"Fixed Interest Rate Earned",
+              "count1":100
+            }
+          ],
+          "counters3":[
+            {
+              "name2":"Default Percentage",
+              "count2":100
+            }
+          ]
+        },
+        "section3":{
+          "title":"Build a portfolio that meets your scheme needs and goals.",
+          "schemes":[
+            {
+              "name":"Kubera Scheme",
+              "icon":"las la-briefcase",
+              "titles":[
+                {
+                  "name":"FR",
+                  "value":"100%"
+                },
+                {
+                  "name":"Tenure",
+                  "value":"40 Months"
+                }
+              ]
+            }
+          ]
+        },
+        "section4":{
+          "tab1":{
+            "title":"Earn Higher Returns",
+            "content":{
+              "title":"Higher returns than traditional fixed income assets",
+              "image":"/assets/images/portfolio-banner-1.png"
+            }
+          },
+          "tab2":{
+            "title":"Enjoy Fixed Returns",
+             "image":"/assets/images/portfolio-banner-2.png"
+          },
+          "tab3":{
+            "title1":"One Platform For All Goals",
+            "title":"One Platform for all Goals",
+            "image":"/assets/images/portfolio-banner-3.png"
+          },
+          "tab4":{
+            "title":"Create a Balanced Portfolio",
+            "image":"/assets/images/portfolio-banner-4.png"
+          }
+        },
+        "section5":{
+          "part1":{
+            "title":"We do the heavy-lifting for you to make investment easy",
+            "desc":"Get access to curated, risk-assessed opportunities designed for retail investors.",
+            "risks":[
+              {
+                "title":"Risk Assessed",
+                "desc":"The deals available on our platform undergo our rigorous and thorough internal credit and risk framework."
+              },
+              {
+                "title":"Diversified Investments",
+                "desc":"Choose to invest in opportunities across multiple asset classes."
+              },
+              {
+                "title":"Ease of Investing",
+                "desc":"Easy to understand platform with insights and knowledge to build your customised portfolio."
+              },
+              {
+                "title":"Secured Deals",
+                "desc":"Access to opportunities that are backed by solid collateral or identified cashflows."
+              }
+            ]
+          },
+          "part2":{
+            "title":"Start investing in just 3 minutes",
+            "desc":"Get access to curated, risk-assessed opportunities designed for retail investors.",
+            "btnName":"Start Investing",
+            "steps":[
+              {
+                "title":"01",
+                "desc":"Sign up to create your account"
+              },
+              {
+                "title":"02",
+                "desc":"Enter ID proof, address proof, and bank details."
+              },
+              {
+                "title":"03",
+                "desc":"Start exploring exclusive opportunities and invest"
+              }
+            ]
+          }
+        },
+        "section6":{
+          "title":"Our Recent Successful deals",
+          "desc":"Exciting deals across tenures, asset classes and returns",
+          "subscribeTitle":"Subscribed",
+          "tenureTitle":"Tenure",
+          "grossTitle":"Gross Returns",
+          "ideas":[
+            {
+              "id": "1000",
+              "image": "/assets/images/cards/aris.jpeg",
+              "name": "Aris",
+              "description": "The Infrastructure industry in India is growing so is your money with Aris",
+              "grossReturns": "100%",
+              "tenure": "40 Months",
+              "percent":"100%"
+            },
+            {
+              "id": "1001",
+              "image": "/assets/images/cards/1k.jpeg",
+              "name": "1K Kirana Bazaar",
+              "description": "1K is bringing ecommerce to rural India, while helping you earn great returns",
+              "grossReturns": "15.9%",
+              "tenure": "40 Months",
+              "percent":"90%"
+
+            },
+            {
+              "id": "1002",
+              "image": "/assets/images/cards/images.jpeg",
+              "name": "CaratLane Trading Private Limited",
+              "description": "CP from a subsidiary of TITAN (TATA JV)",
+              "grossReturns": "7.5%",
+              "tenure": "3 Months",
+              "percent":"80%"
+            },
+            {
+              "id": "1003",
+              "image": "/assets/images/cards/calpro.png",
+              "name": "Calpro",
+              "description": "Invest in invoices of marquee FMCG clients like HUL & Nestle",
+              "grossReturns": "11.7%",
+              "tenure": "30 Days",
+              "percent":"100%"
+            },
+            {
+              "id": "1004",
+              "image": "/assets/images/cards/everest.png",
+              "name": "Everest Fleet",
+              "description": "Participate in Uber's growth journey while earning monthly returns",
+              "grossReturns": "17.5%",
+              "tenure": "36 Months",
+              "percent":"100%"
+            },
+            {
+              "id": "1005",
+              "image": "/assets/images/cards/home-credit.png",
+              "name": "Home Credit",
+              "description": "A leading global consumer finance provider, helping you earn great returns",
+              "grossReturns": "12%",
+              "tenure": "13 Months",
+              "percent":"60%"
+            },
+            {
+              "id": "1006",
+              "image": "/assets/images/cards/navi.png",
+              "name": "Navi",
+              "description": "Founded by Sachin Bansal (Ex-Flipkart, IIT-D alumnus), Navi group is a financial services company.",
+              "grossReturns": "11.96%",
+              "tenure": "24 Months",
+              "percent":"100%"
+            },
+            {
+              "id": "1007",
+              "image": "/assets/images/cards/zetwork.png",
+              "name": "Zetwork",
+              "description": "zetwork is a B2B manufacturing marketplace and fastest Unicorn valued at $2.7 Billion, founded by IIT Graduates.",
+              "grossReturns": "12.25%",
+              "tenure": "3 Months",
+              "percent":"100%"
+            }
+          ]
+        },
+        "section7":{
+          "title":"Backed by Top Investors",
+          "images":[
+            "/assets/images/accel.png",
+            "/assets/images/harmony.png"
+          ],
+          "desc":"trusted by some of the most well known entrepreneurs in India",
+          "persons":[
+            {
+              "image":"/assets/images/person.jpeg",
+              "name":"Siddharth Shah",
+              "title":"Co-founder, Pharmeasy"
+            },
+            {
+              "image":"/assets/images/person.jpeg",
+              "name":"Mankekar",
+              "title":"Family Office"
+            },
+            {
+              "image":"/assets/images/person.jpeg",
+              "name":"Capital A",
+              "title":"Venture Capital"
+            },
+            {
+              "image":"/assets/images/person.jpeg",
+              "name":"Dharmil Sheth",
+              "title":"Co-founder, Pharmeasy"
+            },
+            {
+              "image":"/assets/images/person.jpeg",
+              "name":"Ramakant Sharma",
+              "title":"Co-founder, Livspace"
+            }
+          ]
+        },
+        "section8":{
+          "title":"Some love from investors on our platform",
+          "cards":[
+            {
+              "id": "1000",
+              "content": "Opportunities offered by kubera scheme have great risk-return balance. The information provided is quite useful to help an an informed investment decision. I was very pleased with the straightforward, simple and clear process of investing.",
+              "title": "Sumit Dingra",
+              "image": "/assets/images/person.jpeg",
+              "subTitle": "GM- India and South East Asia, Crocs"
+            },
+            {
+              "id": "1001",
+              "content": "We need to look beyond FDs and debt funds if we want to beat inflation and kubera scheme is the ideal platform. They have had some fantastic deals in the past and I hope they will continue to offer such deals in the future.",
+              "title": "Ravi Handa",
+              "image": "/assets/images/person.jpeg",
+              "subTitle": "Director",
+              "subTitle2": "Unacademy"
+            },
+            {
+              "id": "1002",
+              "content":  "I was a regular FD person earlier, so all my non-equity money was kept in FD. With 5% interest rate on FD, I was getting 3.5% post tax. However, kubera scheme gives me opportunity to invest in alternative investment opportunities with much higher returns. Now I have a chance of beating inflation while keeping my investment secure.",
+              "title": "Amit Aurora",
+              "subTitle": "Associate Professor",
+              "image": "/assets/images/person.jpeg",
+              "subTitle2": "IIT Gandhinagar"
+            },
+            {
+              "id": "1003",
+              "content":  "kubera scheme has innovated the fixed income space in the form of new age alternative investments that provide very good returns with varied tenure. It’s been a safe investment option so far for me yielding returns better than other investment options available in the market. I continue to diversify my portfolio by investing in companies shortlisted by kubera scheme.",
+              "title": "Shivi Kalia",
+              "subTitle": "Ex-Head BHR",
+              "image": "/assets/images/person.jpeg",
+              "subTitle2": " Tech Mahindra Business Services"
+            },
+            {
+              "id": "1004",
+              "content":  "kubera scheme is a super convenient platform for investing in great opportunities. The opportunities are fixed in nature providing great returns with short tenure,  and it safeguards you from market volatility. With a million tabs open in our minds, we tend to keep investments at a lower priority while juggling multiple roles at home with the kids, and at work. Thank You kubera scheme for empowering me and many of us to take investment decisions into our own hands.",
+              "title": "Shagun Sahdev",
+              "image": "/assets/images/person.jpeg",
+              "subTitle": "Retail Consultant"
+            },
+            {
+              "id": "1005",
+              "content": "kubera scheme provides the platform to grow our wealth through fixed return assets. The ability to diversify across brands and asset types at one location provides a great peace of mind to me.",
+              "title": "Sitakanta Ray",
+              "subTitle": "Co-Founder",
+              "image": "/assets/images/person.jpeg",
+              "subTitle2": "RetainIQ"
+            },
+            {
+              "id": "1006",
+              "content": "I was super impressed with the ease of registering with the platform and investing using it. It gives you the confidence to invest and an opportunity to diversify your portfolio risk from the conventional debt and equity investments",
+              "title": "Gitanjali Mirchandani",
+              "image": "/assets/images/person.jpeg",
+              "subTitle": "Ex-MD JM Financial Credit Solutions (RE)"
+            },
+            {
+              "id": "1007",
+              "content":  "I am extremely satisfied with the alternate investment products offered by kubera scheme, which otherwise not possible for small retail investors. kubera scheme has bridged the gap and provided a tech-based solution to its investors",
+              "title": "Rahul Chamaria",
+              "subTitle": "Executive Director",
+              "image": "/assets/images/person.jpeg",
+              "subTitle2": "Star Cement Ltd"
+            },
+            {
+              "id": "1008",
+              "content":  "Opportunities offered by kubera scheme have great risk-return balance. The information provided is quite useful to help an an informed investment decision. I was very pleased with the straightforward, simple and clear process of investing.",
+              "title": "Sawan Singamsetty",
+              "image": "/assets/images/person.jpeg",
+              "subTitle": "Associate Director",
+              "subTitle2": " HSBC Investment Banking"
+            }
+          ]
+        }
+      }
+    },
+    "header":{
+      "logo": "logo.png",
+      "menu":[
+        {
+          "order":1,
+          "name": "About Kubera",
+          "path": "about-kubera",
+          "isLoggedIn": true,
+          "children": []
+        },
+        {
+          "order":2,
+          "name": "Knowledge Centre",
+          "path": "#",
+          "children":[
+            {
+              "order":1,
+              "name": "Blogs",
+              "path": "knowledge-center/blogs"
+            },
+            {
+              "order":2,
+              "name": "Webinars",
+              "path": "knowledge-center/webinars"
+            },
+            {
+              "order":3,
+              "name": "FAQs",
+              "path": "knowledge-center/faqs"
+            }
+          ]
+        },
+        {
+          "order":3,
+          "name": "About Us",
+          "path": "about-us",
+          "children": []
+        },
+        {
+          "order":5,
+          "name": "Contact Us",
+          "path": "contact-us",
+          "isLoggedIn": true,
+          "children": []
+        },
+        {
+          "order":8,
+          "name": "Refer & Earn",
+          "path": "/refer-and-earn",
+          "children": []
+        },
+        {
+          "order":10,
+          "name": "Login/Sign Up",
+          "path": "#",
+          "isLoggedIn": true,
+          "formatMe":true,
+          "children": []
+        }
+      ],
+      "menu1":[
+        {
+          "order":1,
+          "name": "Schemes",
+          "path": "/schemes",
+          "children": []
+        },
+        {
+          "order":2,
+          "name": "Knowledge Centre",
+          "path": "#",
+          "children":[
+            {
+              "order":1,
+              "name": "Blogs",
+              "path": "knowledge-center/blogs"
+            },
+            {
+              "order":2,
+              "name": "Webinars",
+              "path": "knowledge-center/webinars"
+            },
+            {
+              "order":3,
+              "name": "FAQs",
+              "path": "knowledge-center/faqs"
+            }
+          ]
+        },
+        {
+          "order":3,
+          "name": "Dashboard",
+          "path": "/dashboard",
+          "children": []
+        },
+        {
+          "order":4,
+          "name": "Contact Us",
+          "path": "contact-us",
+          "children": []
+        },
+        {
+          "order":5,
+          "name": "Refer & Earn",
+          "path": "/refer-and-earn",
+          "children": []
+        },
+        {
+          "order": 6,
+          "name": "",
+          "userName": "",
+          "path": "#",
+          "children": [
+            {
+              "order": 1,
+              "name": "Profile",
+              "path": "/my-profile"
+            },
+            {
+              "order": 2,
+              "name": "Logout",
+              "path": "/logout",
+              "isLogout": true
+            }
+          ]
+        }
+      ]
+    },
+    "footer":{
+      "top":{
+        "links":[
+          {
+            "title":"Get To Know Us ",
+            "size":13,
+            "names":[
+              {
+                "name":"About Us ",
+                "path":"about-us"
+              },
+              {
+                "name":"Our Company",
+                "path":"our-company"
+              },
+              {
+                "name":"Our Journey",
+                "path":"/"
+              },
+              {
+                "name":"Blogs",
+                "path":"knowledge-center/blogs"
+              },
+              {
+                "name":"Help & FAQ's",
+                "path":"knowledge-center/faqs"
+              },
+              {
+                "name":"Terms & Conditions",
+                "path":"terms-and-conditions"
+              }
+            ]
+          },
+          {
+            "title":"Policy",
+            "size":17,
+            "names":[
+              {
+                "name":"Privacy Policy",
+                "path":"privacy-policy"
+              },
+              {
+                "name":"Shipping Policy",
+                "path":"shipping-policy"
+              },
+              {
+                "name":"Fraud Disclaimer",
+                "path":"disclaimer"
+              },
+              {
+                "name":"Cookies Policy",
+                "path":"cookies-policy"
+              },
+              {
+                "name":"Cancellation Policy",
+                "path":"cancellation-policy"
+              }
+            ]
+          },
+          {
+            "title":"Customer Service",
+            "size":13,
+            "names":[
+              {
+                "name":"Track My Order",
+                "path":"/"
+              },
+              {
+                "name":"Contact Us",
+                "path":"contact-us"
+              }
+            ]
+          },
+          {
+            "title":"Scheme guide",
+            "size":11,
+            "names":[
+              {
+                "name":"Certificate guide",
+                "path":"certificate-guide"
+              },
+              {
+                "name":"Scheme guide",
+                "path":"scheme-guide"
+              }
+            ]
+          }
+        ],
+        "appLinks":{
+          "title":"Download App",
+          "apps":[
+            {
+              "image":"/assets/images/app-store.webp",
+              "link":"/"
+            },
+            {
+              "image":"/assets/images/play-store.webp",
+              "link":"/"
+            }
+          ],
+          "qrCode":"/assets/images/ViindhyaJewelsQRCode.png"
+        },
+        "address":{
+          "title":"Timings",
+          "name":"Kubera Scheme",
+          "icon":"las la-map-marker-alt",
+          "location":"# 8-3-191/92/SF (71/A), 2nd Floor, Surya Plaza, Vengal Rao Nagar, Hyderabad, Telanagana - 500038.",
+          "email":"info at kuberascheme.com",
+          "details":[
+            {
+              "icon":"las la-phone-alt",
+              "name":"+91 83743 XXXXX (9.00am – 6.00pm)"
+            },
+            {
+              "icon":"lab la-whatsapp",
+              "name":"+91 83743 XXXXX (9.00am – 6.00pm)"
+            },
+            {
+              "icon":"las la-envelope",
+              "name":"info at kuberascheme.com"
+            }
+          ]
+        }
+      },
+      "bottom":{
+        "title":"Follow Us On",
+        "social":[
+          "lab la-facebook",
+          "lab la-twitter",
+          "lab la-instagram",
+          "lab la-youtube"
+        ],
+        "brands":[
+          "/assets/images/branch/visacard.png",
+          "/assets/images/branch/mastercard.png",
+          "/assets/images/branch/paypal.png",
+          "/assets/images/branch/maestro.png",
+          "/assets/images/branch/rupay.png",
+          "/assets/images/branch/axis.png",
+          "/assets/images/branch/icici.png",
+          "/assets/images/branch/dinnersclub.png"
+        ]
+      }
+    }
+  }
+}

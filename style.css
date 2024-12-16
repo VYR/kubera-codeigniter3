@@ -7,7 +7,7 @@ body {
   background-color: #171020;
   color: #ffff;
 }
-.mt-1
+/* .mt-1
 {
   margin-top: 1rem !important;
 }
@@ -46,21 +46,21 @@ body {
 .mb-5
 {
   margin-bottom: 5rem !important;
-}
+} */
 .cursor{
   cursor: pointer;
 }
-.column{
+/* .column{
   display: flex;
   flex-direction: column;
   width: 100%;
-}
-.row{
+} */
+/* .row{
   display: flex;
   flex-direction: row;
   width: 100%;
-}
-.space-between{  
+} */
+/* .space-between{  
   justify-content: space-between;
 }
 .text-center{
@@ -68,4 +68,5 @@ body {
 }
 .center{
   justify-content: center;
-}
+} */
+ 

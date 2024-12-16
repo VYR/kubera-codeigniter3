@@ -19,7 +19,7 @@
   .ellipse-left
   {    
     width: 18%; 
-    transform: rotate(5deg);
+    /* transform: rotate(5deg); */
     /* margin-left: -37rem; */
   }
   .ellipse-right{
